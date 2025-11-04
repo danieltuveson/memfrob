@@ -1,5 +1,5 @@
 # memfrob
-Frobnicates input passed through standard in.
+Frobnicates input passed through standard input.
 
 ## Installation
 `make install`

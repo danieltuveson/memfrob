@@ -11,7 +11,7 @@
 int main(int argc, char *argv[])
 {
     const char *usage = "Usage: memfrob [options]\nAvailable options are:\n"
-                        "  -e str    frobnicate string and prints it to standard out\n"
+                        "  -e str    frobnicate string and prints it to stdout\n"
                         "  -f file   frobnicate a file in place\n"
                         "  -h        print help\n"
                         "  --        stop handling options\n"
